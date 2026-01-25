@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859113747054",
+    "project_id": "todoapp-c5824",
+    "storage_bucket": "todoapp-c5824.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859113747054:android:45668f09cb1c2d74662c7f",
+        "android_client_info": {
+          "package_name": "com.babi.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pBduWjjOJLTyVjyjLM5HmUN7vHUts3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
